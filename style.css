@@ -1,0 +1,56 @@
+body 
+{
+    background-color: grey;
+}
+h1
+{
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+h4
+{
+    font-family: monospace;
+    color: rgb(33, 204, 127);
+    font-stretch: narrower;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#result1 
+{
+    width: 500px;
+    border-radius: 35px;
+    padding: 25px;
+    box-shadow: 15px;
+    
+}
+
+#result2
+{
+    width: 500px;
+    border-radius: 35px;
+    padding: 25px;
+    box-shadow: 15px;
+}
+
+#result3
+{
+    width: 500px;
+    border-radius: 35px;
+    padding: 25px;
+    box-shadow: 15px;
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
